@@ -1,0 +1,38 @@
+Create a sleek and intuitive web app called 'Lvl Up' that gamifies personal growth by tracking daily tasks and rewarding users with an experience (EXP) system. The app should have a UI inspired by Opay, emphasizing simplicity, smooth navigation, and a card-based design.
+
+🌟 Core Features:
+Dashboard: Displays the user’s current level, EXP progress, and recent activities in a visually engaging format.
+Task System: Users can add tasks, categorize them (Health, Productivity, Learning, etc.), and earn or lose EXP based on completion. Implement a streak system for consistency rewards.
+Challenges: Mini-goals with milestone rewards to keep users engaged.
+Leveling System: Uses an exponential EXP formula where each level requires more points to progress, preventing too-fast leveling. Implement a Prestige Mode where users can reset their level after reaching a cap, gaining special perks.
+Milestone Rewards: Unlockable badges, motivational quotes, or exclusive features upon reaching key levels (e.g., Level 5, Level 10).
+Leaderboards & Social Integration: Users can compare progress globally or with friends, fostering friendly competition.
+Customization: Users can tweak task EXP values, themes, and notifications.
+🎨 UI & Design Guidelines:
+Color Palette:
+
+Primary: 🟢 #00C896 (Bright Teal for main theme).
+Accent: 🟠 #FF8C42 (Warm Orange for progress bars, active states).
+Success: 🟢 #4CAF50 (Green for level-ups and completed tasks).
+Warning: 🔴 #FF4D4D (Red for losing EXP or bad habits).
+Background: ⚪ #F8F9FA (Soft Gray for a clean look).
+Font Choice:
+
+Headings: Poppins Bold (Modern & Playful).
+Body Text: Inter Regular (Clean & Readable).
+Icon Pack: Use Phosphor Icons or Lucide Icons for a modern, clean look.
+
+📌 Section-Specific Icons:
+Dashboard: Gauge (Teal #00C896)
+Tasks: Clipboard Check (Orange #FF8C42)
+Challenges: Target or Trophy (Gold #FFD700)
+Profile: User Circle (Gray #6C757D)
+Level Progression: Arrow Up Circle (Green #4CAF50)
+Rewards: Gift or Medal (Purple #9B51E0)
+Settings: Sliders (Gray #6C757D)
+🚀 Technical Considerations:
+Responsive Design: Works on mobile & desktop.
+Smooth Animations: Bouncing progress bars, glowing icons for level-ups.
+Dark Mode Support: Optional setting.
+User Data Persistence: Store progress using a database or local storage.
+Generate this entire app, ensuring a user-friendly, engaging, and visually appealing experience that encourages consistent self-improvement.
